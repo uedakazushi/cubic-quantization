@@ -1,11 +1,11 @@
 # 全Poisson構造の代数的中心三次元と一般次元量子化：現行研究ノート
 
 2026-11-21 / v17。最初に [研究方針](../00_research_plan.md) を読む。
-正本は `uedakazushi/nc-cubic` の `main`。
+正本は `uedakazushi/cubic-quantization` の `main`。
 現行公表原稿は [cubic-quantization.tex](../papers/cubic-quantization.tex)。
 Poisson正規形・退化幾何・古典モジュライの証明は
 [poisson-cubic](https://github.com/uedakazushi/poisson-cubic/blob/main/papers/poisson-cubic.tex)、
-可換復元・非可換モジュライは [nc-cubic.tex](../papers/nc-cubic.tex) に置く。
+可換復元・非可換モジュライは [nc-cubic](https://github.com/uedakazushi/nc-cubic/blob/main/papers/nc-cubic.tex) に置く。
 以下の数学的内容は移管した原稿の主張と既存監査を整理したもので、移管自体を再証明・独立監査とは扱わない。
 
 主要証明の所在：
