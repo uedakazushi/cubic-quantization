@@ -1218,7 +1218,7 @@ GL3のHesse変換と中心平行移動は
 実行手順と保存された厳密証明書は [計算資産](../computations/quantization/README.md) にある。
 この移管での実行結果は [検証状態](../validation_quantization.json) に分けて記録し、以前の計算成功を再実行と読み替えない。
 大きな普遍係数行列の検算は一つずつ実行する。量子化論文の組版はrepoルートから
-`latexmk papers/cubic-quantization.tex`、二論文の参照検査は `python3 scripts/check_sources.py` を用いる。
+`latexmk papers/cubic-quantization.tex`、本量子化論文の参照検査は `python3 scripts/check_sources.py` を用いる。
 
 ### 確認した一次文献と本稿の位置
 
